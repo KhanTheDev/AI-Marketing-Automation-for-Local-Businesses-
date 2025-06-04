@@ -2,6 +2,8 @@
 
 *Built for the NVIDIA x Vercel Hackathon (World’s Shortest Hackathon 2025) 🎉*
 
+Live Demo: https://v0-vercel-gameplan.vercel.app/
+
 ---
 
 ## What is this?
@@ -60,13 +62,7 @@ We wanted to build a super simple tool where:
    - Social post generator
    - Chatbot responses  
 3️⃣ Results are displayed on a **dashboard**  
-4️⃣ Business can **copy or schedule** posts & emails  
-
----
-
-## Live Demo
-
-_Link coming soon (Vercel)_ 🚀
+4️⃣ Business can **copy or schedule** posts & emails
 
 ---
 
