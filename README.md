@@ -2,101 +2,81 @@
 
 *Built for the NVIDIA x Vercel Hackathon (World’s Shortest Hackathon 2025) 🎉*
 
-Live Demo: https://v0-vercel-gameplan.vercel.app/
+Demo Project similar to LiftBrand.ai (Due to confidentiality, liftBrand.ai files are private) – Built to Show What’s Possible with AI + Automation
 
----
+P.S. This is a simple demo project showcasing liftBrand.ai, I am in charge of the softare operation of liftBrand.ai, and we currently have several clients (local businesses located in NYC), signed up and working with us to scale their store. 
 
-## What is this?
+Live Example Demo: https://v0-vercel-gameplan.vercel.app/
 
-A simple AI-powered tool to help local businesses create personalized marketing — without needing a marketing team.
+What is this?
+A preview of what LiftBrand.ai is and currently being worked upon — an AI-powered marketing automation tool designed to help local businesses grow, without needing a dedicated marketing team.
 
-You fill out your business info, and the platform generates:
+Just fill out your business info, and our platform auto-generates:
 
-- 🎯 Targeted email & SMS campaigns
-- 📱 Social media posts (with captions & hashtags)
-- 🤖 A smart chatbot trained on your business tone
-- 📊 A dashboard to track it all
+🎯 Targeted email & SMS campaigns
 
-We built this using **Next.js**, **Vercel**, and **NVIDIA NIM / OpenAI models** — designed to deploy fast and scale.
+📱 Social media posts with AI captions & hashtags
 
----
+🤖 A smart chatbot tailored to your business tone
 
-## Why we built it
+📊 A simple dashboard to track and manage it all
 
-Most small businesses don’t have time or money to run marketing — but they all want more customers.
+Built With
+Next.js (frontend + backend)
 
-We wanted to build a super simple tool where:
+Vercel (deployment)
 
-✅ The business owner fills out **1 form**  
-✅ The platform handles the rest: email, social posts, chatbot  
+NVIDIA NIM + OpenAI GPT (AI generation)
 
----
+Mock data (real-time database coming in next release)
 
-## Core Features (V0)
+Why LiftBrand.ai Exists
+Most small businesses don’t have the time or budget to run full marketing ops. LiftBrand.ai makes it dead simple to get:
 
-✅ Business intake form → stores business details  
-✅ AI lead scoring (basic)  
-✅ Campaign generator (email & SMS)  
-✅ Social post generator (AI-powered captions)  
-✅ Chatbot tuned to business info  
-✅ Simple dashboard (Next.js frontend)  
-✅ One-click deploy on Vercel  
+✅ Emails, texts, and posts — with just one form
+✅ A chatbot that talks in your brand’s voice
+✅ Everything managed from one dashboard
 
----
+Demo Features (v0)
+📝 Business intake form
 
-## Tech Stack
+🧠 AI-powered campaign & post generation
 
-- **Frontend:** Next.js  
-- **Backend:** Next.js API Routes  
-- **AI:** NVIDIA NIM + OpenAI GPT  
-- **Deployment:** Vercel  
-- **Database:** none yet (mock data for V0 — DB planned for V1)  
+💬 Branded chatbot responses
 
----
+📊 Simple dashboard (no login yet)
 
-## How it works (simple flow)
+🔌 Instant deployment via Vercel
 
-1️⃣ Business owner fills out **intake form**  
-2️⃣ Info is passed to AI API calls:
-   - Campaign generator
-   - Social post generator
-   - Chatbot responses  
-3️⃣ Results are displayed on a **dashboard**  
-4️⃣ Business can **copy or schedule** posts & emails
+How It Works
+You fill out a short business form
 
----
+Our backend calls AI models to generate marketing assets
 
-## Next Steps (V1 Roadmap)
+You view, copy, or schedule them from your dashboard
 
-- Add database (Supabase / Firebase)  
-- Add user accounts (multi-business SaaS)  
-- Add RAG for smarter chatbot  
-- Add multi-modal vision model (NVIDIA Nemotron Nano VL)  
-- Add “one-click publish” to social media platforms  
+What’s Coming Next (v1 roadmap)
+Supabase/Firebase integration
 
----
+User accounts & multi-business support
 
-## Team
+RAG-based smart chatbot
 
-- **Lead Dev:** Haris Khan  
-- **Frontend / UX:** Shazib Siddique  
-- **AI / Prompt Engineering:** Both  
+NVIDIA Nemotron Nano VL for image-aware content
 
----
+Social post publishing integrations
 
-## Hackathon
+Team
+Haris Khan – Lead Developer
 
-This was built in under 24h for the **NVIDIA x Vercel Hackathon** 🚀.  
-Excited to keep iterating on it and turn it into a tool for real small businesses.
+Shazib Siddique – Frontend & UX
 
----
+Both – AI & prompt engineering
 
-## License
+🚀 Want to try LiftBrand.ai for your business?
+We're onboarding early users. Contact us to get started.
 
-MIT License
+License: MIT
 
----
-
-🔥 If you’re a small business owner and want to try this → **DM us!**
 
 
